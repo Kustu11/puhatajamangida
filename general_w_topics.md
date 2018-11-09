@@ -19,3 +19,14 @@
 | [00:32:25][fez](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=32m25s)| Fez | Rainer Peterson |
 | [00:33:12][trials_evolution](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=33m12s)| Trials Evolution | Rainer Peterson |
 | [00:37:35][beneath_the_steel_sky](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=37m35s)| Beneath the Steel Sky | Martin Mets |
+
+### #3 //  11/05/2012
+
+| aeg | teema | esitaja? quite irrelevant |
+|-----|-------|------------|
+| [00:22:45][deus_ex_human_revolution](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=22m45s)| Deus Ex Human Revolution | |
+| [00:30:19][lone_survivor](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=30m19s)| Lone Survivor | |
+| [00:35:54][batman_arkham_city](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=35m54s)| Barman: Arkham City | |
+| [00:39:30][saints_row_iii](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=39m30s)| Saints Row III | |
+| [00:40:54][death_rally](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=40m54s)| Death Rally | |
+| [00:42:26][system_shock_2](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=42m26s)| System Shock 2 | |
