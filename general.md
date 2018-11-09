@@ -1,7 +1,6 @@
-GeneralDB
-
-# 2012
-## #1 // 27/04/2012
+#General DB
+## 2012
+### #1 // 27/04/2012
 
 | aeg | teema | esitaja? quite irrelevant |
 |-----|-------|------------|
@@ -11,7 +10,7 @@ GeneralDB
 | [00:36:13](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-01-27-04#t=36m13s)| Cave Story | Rainer Peterson |
 
 
-## #2 //  04/05/2012
+### #2 //  04/05/2012
 
 | aeg | teema | esitaja? quite irrelevant |
 |-----|-------|------------|
