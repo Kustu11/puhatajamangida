@@ -1,5 +1,6 @@
-Database
-# GeneralDB KRAAKA LARA
+# GeneralDB
+
+How this database could look like
 
 ## 2012
 ### #1 // 27/04/2012
