@@ -1,7 +1,7 @@
 # 2014
 ## #91 // 24/01/2014
-| aeg | teema | esitaja? quite irrelevant |
-|-----|-------|------------|
+| aeg | teema |
+|-----|-------|
 | [00:05:34][intro](https://youtu.be/-oYklbJIxpM?t=334)| INTRO |
 | [00:09:34][rein_tais](https://youtu.be/-oYklbJIxpM?t=574)| Rein külastas Taid, Mikromaksed pärismaailmas |
 | [00:14:34][uudised](https://youtu.be/-oYklbJIxpM?t=874)| UUDISED |

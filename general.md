@@ -4,7 +4,7 @@
 |-----|-------|
 | [00:05:34](https://youtu.be/-oYklbJIxpM?t=334)| INTRO |
 | [00:09:34](https://youtu.be/-oYklbJIxpM?t=574)| Rein külastas Taid, Mikromaksed pärismaailmas |
-| [00:14:34](https://youtu.be/-oYklbJIxpM?t=874)| UUDISED |
+| [00:14:34](https://youtu.be/-oYklbJIxpM?t=874)| UUDISED : |
 | [00:14:34](https://youtu.be/-oYklbJIxpM?t=874)| Microsoft maksab Youtube positiivse reklaami eest |
 | [00:18:23](https://youtu.be/-oYklbJIxpM?t=1103)| Steambox: Steam hakkab arvuteid tootma |
 | [00:22:26](https://youtu.be/-oYklbJIxpM?t=1347)| Nintendo kahjum |
