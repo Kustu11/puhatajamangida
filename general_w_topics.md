@@ -81,34 +81,35 @@
 
 # 2012
 
-## #1 // 27/04/2012
+## #3 //  11/05/2012
 
-| aeg | teema | esitaja? quite irrelevant |
-|-----|-------|------------|
-| [00:17:51][silent_hill_downfall](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-01-27-04#t=17m51s)| Silent Hill: Downfall | Martin Mets |
-| [00:26:40][alan_wake](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-01-27-04#t=26m40s)| Alan Wake | Rein Zobel |
-| [00:29:50][fez](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-01-27-04#t=29m50s)| Fez | Rainer Peterson |
-| [00:36:13][cave_story](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-01-27-04#t=36m13s)| Cave Story | Rainer Peterson |
+| aeg | teema |
+|-----|-------|
+| [00:22:45][deus_ex_human_revolution](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=22m45s)| Deus Ex Human Revolution |
+| [00:30:19][lone_survivor](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=30m19s)| Lone Survivor |
+| [00:35:54][batman_arkham_city](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=35m54s)| Barman: Arkham City |
+| [00:39:30][saints_row_iii](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=39m30s)| Saints Row III |
+| [00:40:54][death_rally](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=40m54s)| Death Rally |
+| [00:42:26][system_shock_2](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=42m26s)| System Shock 2 |
 
 
 ## #2 //  04/05/2012
 
-| aeg | teema | esitaja? quite irrelevant |
-|-----|-------|------------|
-| [00:23:18][dirt_showdown](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=23m18s)| Dirt Showdown | Martin Mets |
-| [00:27:26][the_walking_dead](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=27m26s)| The Walking Dead | Rein Zobel |
-| [00:31:46][the_walking_dead](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=31m46s)| The Walking Dead | Rainer Peterson |
-| [00:32:25][fez](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=32m25s)| Fez | Rainer Peterson |
-| [00:33:12][trials_evolution](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=33m12s)| Trials Evolution | Rainer Peterson |
-| [00:37:35][beneath_the_steel_sky](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=37m35s)| Beneath the Steel Sky | Martin Mets |
+| aeg | teema |
+|-----|-------|
+| [00:23:18][dirt_showdown](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=23m18s)| Dirt Showdown |
+| [00:27:26][the_walking_dead](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=27m26s)| The Walking Dead |
+| [00:31:46][the_walking_dead](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=31m46s)| The Walking Dead |
+| [00:32:25][fez](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=32m25s)| Fez |
+| [00:33:12][trials_evolution](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=33m12s)| Trials Evolution |
+| [00:37:35][beneath_the_steel_sky](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-02-04-05#t=37m35s)| Beneath the Steel Sky |
 
-## #3 //  11/05/2012
 
-| aeg | teema | esitaja? quite irrelevant |
-|-----|-------|------------|
-| [00:22:45][deus_ex_human_revolution](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=22m45s)| Deus Ex Human Revolution | |
-| [00:30:19][lone_survivor](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=30m19s)| Lone Survivor | |
-| [00:35:54][batman_arkham_city](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=35m54s)| Barman: Arkham City | |
-| [00:39:30][saints_row_iii](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=39m30s)| Saints Row III | |
-| [00:40:54][death_rally](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=40m54s)| Death Rally | |
-| [00:42:26][system_shock_2](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-03-11-05#t=42m26s)| System Shock 2 | |
+## #1 // 27/04/2012
+
+| aeg | teema |
+|-----|-------|
+| [00:17:51][silent_hill_downfall](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-01-27-04#t=17m51s)| Silent Hill: Downfall |
+| [00:26:40][alan_wake](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-01-27-04#t=26m40s)| Alan Wake |
+| [00:29:50][fez](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-01-27-04#t=29m50s)| Fez |
+| [00:36:13][cave_story](https://soundcloud.com/puhatajamangida/puhata_ja_m2ngida-01-27-04#t=36m13s)| Cave Story |
