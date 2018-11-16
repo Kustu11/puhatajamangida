@@ -1,5 +1,62 @@
+#2018
+
+## #338 // 16/11/2018
+
+| aeg | teema |
+|-----|-------|
+| [00:00:02][intro](https://youtu.be/UIIed3sGWWc?t=2)| INTRO |
+| [00:05:30][uudised](https://youtu.be/UIIed3sGWWc?t=330)| UUDISED |
+| [00:08:11][ps_pood](https://youtu.be/UIIed3sGWWc?t=491)| PS poes saab maksta Eesti krediitkaardiga |
+| [00:12:33][microsofti_uudised](https://youtu.be/UIIed3sGWWc?t=753)| Microsofti uudised: ostis 2 stuudiot, Game Pass'i uued mängud, klaviatuuri tugi |
+| [00:19:11][ea_remaster](https://youtu.be/UIIed3sGWWc?t=1151)| EA remasterdab C&C |
+| [00:25:39][thq_nordic](https://youtu.be/UIIed3sGWWc?t=1539)| THQ Nordic ostis stuudioid |
+| [00:28:11][narcos](https://youtu.be/UIIed3sGWWc?t=1691)| Narcos'st tuleb mäng välja |
+| [00:30:12][telltale](https://youtu.be/UIIed3sGWWc?t=1812)| Telltale'i mängud võetakse steamist maha |
+| [00:31:55][p_t](https://youtu.be/UIIed3sGWWc?t=1915)| Konami kustutab P.T. demosid |
+| [00:33:24][fallout_76](https://youtu.be/UIIed3sGWWc?t=2004)| Fallout 76 |
+| [00:38:31][valve](https://youtu.be/UIIed3sGWWc?t=2311)| Valve hakkab tegema VR peaseadmeid |
+| [00:41:24][moo](https://youtu.be/UIIed3sGWWc?t=2484)| Rein käis: MängudeÖÖ |
+| [00:46:25][mängud](https://youtu.be/UIIed3sGWWc?t=2785)| MÄNGUD |
+| [00:46:36][spyro_reignited_triology](https://youtu.be/UIIed3sGWWc?t=2796)| Spyro Reignited Triology |
+| [00:23:24][dont_starve_hamlet](https://youtu.be/UIIed3sGWWc?t=3204)| Don't Starve: Hamlet |
+| [00:59:49][rdr_2](https://youtu.be/UIIed3sGWWc?t=3589)| Read Dead Redemption 2 |
+| [01:14:29][soodne](https://youtu.be/UIIed3sGWWc?t=4469)| Soodsad mängud |
+| [01:15:38][outro](https://youtu.be/UIIed3sGWWc?t=4538)| OUTRO |
+
+## #337 // 09/11/2018
+
+| aeg | teema |
+|-----|-------|
+| [00:00:06][intro](https://youtu.be/rn7WB3455yw?t=6)| INTRO |
+| [00:10:04][uudised](https://youtu.be/rn7WB3455yw?t=604)| UUDISED |
+| [00:10:13][blizzcon_2018](https://youtu.be/rn7WB3455yw?t=613)| BlizzCon 2018: Diablo Immortal, Warcraft 3: Reforged |
+| [00:44:27][path_of_exile](https://youtu.be/rn7WB3455yw?t=2667)| Path of Exile tuleb PS4-le |
+| [00:46:28][pubg](https://youtu.be/rn7WB3455yw?t=2788)| PUBG tuleb PS4-le |
+| [00:47:50][microsoft_stream](https://youtu.be/rn7WB3455yw?t=2870)| Microsoft streamib mitu tundi uusi mänge |
+| [00:48:27][ps_experience_2018](https://youtu.be/rn7WB3455yw?t=2907)| PS Experience ei toimu |
+| [00:49:17][the_forest](https://youtu.be/rn7WB3455yw?t=2957)| The Forest tuli PS4-le |
+| [00:50:04][beat_saber](https://youtu.be/rn7WB3455yw?t=3004)| Beat Saber tuleb PS4-le |
+| [00:50:53][déraciné](https://youtu.be/rn7WB3455yw?t=3053)| Déraciné tuli PS VR-le |
+| [00:52:17][overkills_twd](https://youtu.be/rn7WB3455yw?t=3137)| OVERKILL's The Walking Dead tuli välja |
+| [00:53:21][world_of_ff_maxima](https://youtu.be/rn7WB3455yw?t=3201)| World of Final Fantasy Maxima tuli välja |
+| [00:53:52][r6_siege](https://youtu.be/rn7WB3455yw?t=3232)| Rainbow Six Siege tsenseeritakse |
+| [00:56:06][square_enix](https://youtu.be/rn7WB3455yw?t=3366)| Square Enix'i majandustulemused ja The Quiet Man |
+| [01:00:06][8bitdo](https://youtu.be/rn7WB3455yw?t=3606)| 8BitDo NESi ja SNESi puldi lisavidin |
+| [01:01:55][gris](https://youtu.be/rn7WB3455yw?t=3715)| Gris tuleb välja |
+| [01:02:40][uudised](https://youtu.be/rn7WB3455yw?t=3760)| MÄNGUD |
+| [01:02:50][return_of_the_obra_dinn](https://youtu.be/rn7WB3455yw?t=3770)| Return of the Obra Dinn |
+| [01:11:44][diablo_iii](https://youtu.be/rn7WB3455yw?t=4306)| Diablo III Switchil |
+| [01:16:37][tetris_effekt](https://youtu.be/rn7WB3455yw?t=4597)| Tetris Effect |
+| [01:22:02][rdr_2](https://youtu.be/rn7WB3455yw?t=4922)| Read Dead Redemption 2 |
+| [01:36:45][soodne](https://youtu.be/rn7WB3455yw?t=5805)| Soodsad mängud |
+| [01:38:10][moo](https://youtu.be/rn7WB3455yw?t=5890)| MängudeÖÖ tuleb |
+| [01:40:57][outro](https://youtu.be/rn7WB3455yw?t=6057)| OUTRO |
+
+
 # 2014
+
 ## #91 // 24/01/2014
+
 | aeg | teema |
 |-----|-------|
 | [00:05:34][intro](https://youtu.be/-oYklbJIxpM?t=334)| INTRO |
@@ -23,6 +80,7 @@
 | [01:05:53][outro](https://youtu.be/-oYklbJIxpM?t=3953)| OUTRO |
 
 # 2012
+
 ## #1 // 27/04/2012
 
 | aeg | teema | esitaja? quite irrelevant |
